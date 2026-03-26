@@ -8,7 +8,7 @@
 import numpy as np
 from scipy import stats
 
-#1) Datos: pesos registrados de los sacos de café
+#1) Datos: pesos registrados de los sacos de cafe
 pesos = np.array([495, 498, 502, 490, 497, 499, 501, 493, 496, 498, 492, 495, 500, 494, 496])
 
 #2) Valor hipotetico de la media bajo H0
